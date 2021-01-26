@@ -1,0 +1,2 @@
+# blackjack
+rubyでBlackjackを実装
